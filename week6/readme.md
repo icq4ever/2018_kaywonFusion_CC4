@@ -7,7 +7,7 @@
 
 ## map()
 - ``map(value, start1, end1, start2, end2);``:  `start1`에서 `end1`사이의 범위에 있는 `value`의 값을, `start2`와 `end2`의 범위로 변환하여 계산해줌
-- ``constrain(value, min, max);``
+- ``constrain(value, min, max);` : `value`의 값이 `min`과 `max`사이의 범위를 벗어날 경우 잘라냄.
 
 ## 회전
 - `translate()`: 좌표계을 이동
@@ -15,4 +15,4 @@
 - `radians()`:  degree -> radian 변환
 
 ## 프로세싱 타이머
-- ``millis()`
+- `millis()` : 프로세싱이 실행된 후 경과한 시간을 milliseconds(1/1000초) 단위로 알려준다. 일종의 카운터 
