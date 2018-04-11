@@ -10,7 +10,7 @@
 - `constrain(value, min, max);` : `value`의 값이 `min`과 `max`사이의 범위를 벗어날 경우 잘라냄.
 
 ## 회전
-- `translate()`: 좌표계을 이동
+- `translate()`: 좌표계를 이동
 - `rotate()` : 원점을 중심으로 시계방향으로 회전. 단위는 라디안
 - `radians()`:  degree -> radian 변환
 
