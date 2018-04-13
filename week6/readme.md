@@ -16,3 +16,9 @@
 
 ## 프로세싱 타이머
 - `millis()` : 프로세싱이 실행된 후 경과한 시간을 milliseconds(1/1000초) 단위로 알려준다. 일종의 카운터 
+
+
+## 과제
+태양의 주위를 공전하는 지구의 움직임을 프로세싱을 이용해서 애니메이션을 구현해봅니다. 태양과 지구의 이미지를 사용해서 만들어보세요
+
+![homework example](https://media.giphy.com/media/WgSLOn7GecfaHh4Vps/giphy.gif)
