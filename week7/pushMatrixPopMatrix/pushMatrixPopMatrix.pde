@@ -1,5 +1,8 @@
-// 이상한 나라의 우주를 만들어보자
-// 도형들이 다른 중심을 기준으로 각각 공전한다.
+/*
+    pushMatrix() / popMatrix()
+    사용자 정의함수와 함께 사용하기.
+*/
+
 
 void setup(){
     size(600, 600);
@@ -28,7 +31,7 @@ void draw(){
 }
 
 void spinningPlanet(float x, float y){
-    pushMatrix();
+    pushMatrix();   
     translate(x, y);
     rotate(millis()/100.0);
     ellipse(100, 100, 50, 50);
