@@ -2,6 +2,17 @@
 - for 반복문
 - array (배열)
 
+이번주에 배운 내용은 아마도 많이 어려울겁니다.<br/>
+유튜브나 구글에서 프로세싱 배열, for 반복문이라고 검색하면 친절하고 훌륭한 설명을 찾을수 있을겁니다.<br/><br/>
+
+
+[for문 part1](https://www.youtube.com/watch?v=P1N0WsJfF70)
+[for문 part2](https://www.youtube.com/watch?v=0c2dHKwiRGs)
+[for문 part3](https://www.youtube.com/watch?v=GH5xlhHKXgY)
+[배열과 for문](https://www.youtube.com/watch?v=ox0ZIqOdKdU)
+
+---
+
 ## for 반복문 
 for문은 아래와 같은 구조를 가지고 있습니다.
 
