@@ -92,7 +92,7 @@ int[0] = 1;
 int[1] = 2;
 int[2] = 3; // 이런식으로 인덱스 번호를 사용해서 배열의 요소에 접근한다.
 
-int[3] = 4; // 이와같이, 배열의 범위를 벗어나 접근하려고 하면, 에러를 발생한다! (outOfArrayBoundOfException)
+int[3] = 4; // 이와같이, 배열의 범위를 벗어나 접근하려고 하면, 에러를 발생한다! (ArrayindexoutOfBoundsException)
 ```
 ---
 
