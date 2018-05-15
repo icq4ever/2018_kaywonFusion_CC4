@@ -6,10 +6,10 @@
 유튜브나 구글에서 프로세싱 배열, for 반복문이라고 검색하면 친절하고 훌륭한 설명을 찾을수 있을겁니다.<br/><br/>
 
 
-[for문 part1](https://www.youtube.com/watch?v=P1N0WsJfF70)
-[for문 part2](https://www.youtube.com/watch?v=0c2dHKwiRGs)
-[for문 part3](https://www.youtube.com/watch?v=GH5xlhHKXgY)
-[배열과 for문](https://www.youtube.com/watch?v=ox0ZIqOdKdU)
+[for문 part1](https://www.youtube.com/watch?v=P1N0WsJfF70)<br/>
+[for문 part2](https://www.youtube.com/watch?v=0c2dHKwiRGs)<br/>
+[for문 part3](https://www.youtube.com/watch?v=GH5xlhHKXgY)<br/>
+[배열과 for문](https://www.youtube.com/watch?v=ox0ZIqOdKdU)<br/>
 
 ---
 
