@@ -1,6 +1,6 @@
 # week11
 이번주에 배운 내용은 GUI 인터페이스를 추가하여 변수와 연동하는 방법입니다.
-사용되는 프로세싱 라이브러리는 ![controlP5](http://www.sojamo.de/libraries/controlP5/) 입니다.
+사용되는 프로세싱 라이브러리는 [controlP5](http://www.sojamo.de/libraries/controlP5/) 입니다.
 
 ## 라이브러리 설치
 - 프로세싱 메뉴 `tools`> `add Tool` :  `libraries` 탭에서 `controlP5` 선택후 설치
